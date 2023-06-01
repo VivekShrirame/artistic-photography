@@ -55,4 +55,4 @@ img, svg{
 }
 `;
 
-export default GlobalStyles
+export default GlobalStyles;
